@@ -23,8 +23,7 @@ A partir de un dataset oficial procesado, se aplicaron técnicas de limpieza, an
 - **GitHub**
 
 ## Dashboard Ejecutivo
-[![Dashboard de Obras Paralizadas](figs/dashboard_preview.png)
-*(Reemplaza la ruta de la imagen con la captura de pantalla de tu informe final)*](https://github.com/gonzalobonadeog/Trabajo-final-de-Herramientas-b-sicas-para-el-an-lisis-de-datos/blob/b97a909b597097b184ddd68c46f3b7196c0b8638/Dataset_obras_Powerbi.pbix)
+[![Dashboard de Obras Paralizadas](figs/dashboard_preview.png)](https://github.com/gonzalobonadeog/Trabajo-final-de-Herramientas-b-sicas-para-el-an-lisis-de-datos/blob/b97a909b597097b184ddd68c46f3b7196c0b8638/Dataset_obras_Powerbi.pbix)
 
 ## Estructura del proyecto
 ```text
